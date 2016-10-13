@@ -107,7 +107,7 @@ with BigBlueButton; if not, If not, see <http://www.gnu.org/licenses/>.
 			</select>
 		</div>
 		<div>
-			<label class="labform" id="descript" for="meta_description">Description:</label>
+			<label class="labform" id="descript" for="meta_description">Description:wxw</label>
 			<textarea id="meta_description" name="meta_description" cols="50" rows="6" autofocus required></textarea>
 		</div>
 		<div>
